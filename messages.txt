@@ -1,1 +1,2 @@
 Hello, faithful students.
+Git is cool!

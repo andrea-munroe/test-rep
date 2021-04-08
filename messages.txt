@@ -1,2 +1,3 @@
 Hello, faithful students.
+You thought life was easy, huh?
 Git is cool!
